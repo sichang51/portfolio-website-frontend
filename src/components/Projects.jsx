@@ -1,6 +1,6 @@
 import React from "react";
 import ProjectItem from "./ProjectItem";
-import jobSearchImg from "../assets/jobsearch.jpg";
+import jobSearchImg from "../assets/JobHound.jpg";
 import placeHolderImg from "../assets/placeholder.jpg";
 
 export const Projects = () => {
