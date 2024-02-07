@@ -18,7 +18,7 @@ const data = [
   },
   {
     year: 2022,
-    title: "Med-Legal",
+    title: "Sales Operations Analyst",
     duration: "2 Years and 9 Months",
     details:
       "Deployed the first ever CRM (MS D365) platform at the company allowing sales teams to view leads, account information and performance in real-time.  Delivered sales commissions accurately and timely increasing trust amongst sales and sales operations and allowing the team to refocus on increasing efficiency and sales.  Built KPI dashboards allowing for transparency in performance and competitiveness with sales team.  Developed and managed territories, quotas by diversifying sales reps’ book of business and allowing for additional headcounts.",
